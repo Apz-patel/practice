@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "62d80fbd11344a7cb8836314_2022-cen-eb-365-frozenfruit-tropicalfruitmedley-org-32ozpouch-099482457150.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
